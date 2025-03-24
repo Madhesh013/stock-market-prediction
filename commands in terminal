@@ -1,5 +1,5 @@
-mkdir strock_predictor_sklearn
-cd strock_predictor_sklearn
+mkdir stock_predictor_sklearn
+cd stock_predictor_sklearn
 python -m venv myenv
 source myenv/bin/activate
 pip install yfinance pandas numpy matplotlib scikit-learn
